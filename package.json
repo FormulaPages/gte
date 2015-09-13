@@ -1,0 +1,19 @@
+{
+  "name": "formula-gte",
+  "version": "1.0.0",
+  "description": "",
+  "main": "GTE.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FormulaPages/gte.git"
+  },
+  "author": "Peter Moresi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/FormulaPages/gte/issues"
+  },
+  "homepage": "https://github.com/FormulaPages/gte#readme"
+}
