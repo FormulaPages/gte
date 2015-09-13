@@ -1,3 +1,3 @@
-export default function GT(a,b) {
+export default function GTE(a,b) {
        return a >= b;
 }

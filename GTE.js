@@ -13,9 +13,9 @@
 })(this, function (exports, module) {
        "use strict";
 
-       module.exports = GT;
+       module.exports = GTE;
 
-       function GT(a, b) {
+       function GTE(a, b) {
               return a >= b;
        }
 });
